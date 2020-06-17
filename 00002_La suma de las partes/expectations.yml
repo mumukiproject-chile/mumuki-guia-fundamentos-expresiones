@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: PonerSuma
+  inspection: HasUsage:PonerN
+- binding: PonerSuma
+  inspection: HasArity:2

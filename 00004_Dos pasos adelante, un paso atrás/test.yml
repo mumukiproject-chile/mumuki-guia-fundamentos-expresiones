@@ -1,0 +1,26 @@
+check_head_position: true
+
+subject: CaminarDesconfiado
+
+examples:
+ - arguments:
+   - 4
+   initial_board: |
+     GBB/1.0
+     size 6 1
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 6 1
+     head 2 0
+     
+ - arguments:
+   - 7
+   initial_board: |
+     GBB/1.0
+     size 6 1
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 6 1
+     head 3 0
