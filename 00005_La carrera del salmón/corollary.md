@@ -1,1 +1,1 @@
-Las **expresiones** no sólo pueden **denotar** números, también nos sirven para realizar transformaciones sobre **direcciones**. Más sobre esto en los próximos ejercicios. :wink:
+Las **expresiones** no sólo pueden **denotar** números; también nos sirven para realizar transformaciones sobre **direcciones**. Veremos más sobre esto en los próximos ejercicios. :wink:

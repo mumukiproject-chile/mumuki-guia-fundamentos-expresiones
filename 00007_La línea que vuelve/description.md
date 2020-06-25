@@ -1,4 +1,4 @@
-Ahora que sabés usar la función `opuesto`, podemos finalmente resolver el problema de construir un procedimiento que dibuje una línea **en cualquier dirección** y **deje el cabezal en la posición inicial**.
+Ahora que sabes usar la función `opuesto`, podemos finalmente resolver el problema de construir un procedimiento que dibuje una línea **en cualquier dirección** y **deje el cabezal en la posición inicial**.
 
 La versión que sabíamos hacer hasta ahora era esta:
 
@@ -11,5 +11,5 @@ procedure Linea(direccion, color, longitud) {
 }
 ```
 
-> Valiéndote de tus nuevos conocimientos sobre expresiones, modificá el procedimiento `Linea` para que el cabezal quede en el lugar donde empezó.
+> Valiéndote de tus nuevos conocimientos sobre expresiones, modifica el procedimiento `Linea` para que el cabezal quede en el lugar donde empezó.
 

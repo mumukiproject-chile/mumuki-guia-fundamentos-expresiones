@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: Linea
-  inspection: HasRepeat
-- binding: Linea
-  inspection: HasUsage:MoverN
+  - 
+    binding: Linea
+    inspection: HasRepeat
+  - 
+    binding: Linea
+    inspection: HasUsage:MoverN

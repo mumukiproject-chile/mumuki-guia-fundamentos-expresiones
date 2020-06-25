@@ -1,10 +1,10 @@
 ---
 locale: es
-tags: []
+tags: [ ]
 layout: input_right
 editor: code
 type: problem
 extra_visible: true
 manual_evaluation: false
-choices: []
+choices: [ ]
 name: La suma de las partes

@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: ContarGente
-  inspection: HasUsage:PonerN
+  - 
+    binding: ContarGente
+    inspection: HasUsage:PonerN

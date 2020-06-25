@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: program
-  inspection: HasUsage:PonerN
-- binding: program
-  inspection: Not:HasRepeat
+  - 
+    binding: program
+    inspection: HasUsage:PonerN
+  - 
+    binding: program
+    inspection: Not:HasRepeat
