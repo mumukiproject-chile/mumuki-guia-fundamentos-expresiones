@@ -1,8 +1,8 @@
 ---
 expectations:
-  - 
-    binding: Linea
-    inspection: HasRepeat
-  - 
-    binding: Linea
-    inspection: HasUsage:MoverN
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Linea
+  inspection: HasRepeat
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Linea
+  inspection: HasUsage:MoverN

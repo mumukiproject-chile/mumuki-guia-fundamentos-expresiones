@@ -1,5 +1,5 @@
 ---
 expectations:
-  - 
-    binding: ContarGente
-    inspection: HasUsage:PonerN
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: ContarGente
+  inspection: HasUsage:PonerN

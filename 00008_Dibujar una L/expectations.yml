@@ -1,0 +1,14 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Ele
+  inspection: HasArity:1
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Ele
+  inspection: HasUsage:Linea
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Ele
+  inspection: Not:HasRepeat
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Ele
+  inspection: Not:HasUsage:opuesto

@@ -1,8 +1,8 @@
 ---
 expectations:
-  - 
-    binding: MoverComoSalmon
-    inspection: HasUsage:opuesto
-  - 
-    binding: MoverComoSalmon
-    inspection: HasArity:1
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: MoverComoSalmon
+  inspection: HasUsage:opuesto
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: MoverComoSalmon
+  inspection: HasArity:1

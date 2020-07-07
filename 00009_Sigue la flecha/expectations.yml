@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Flecha
+  inspection: HasArity:1
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Flecha
+  inspection: HasUsage:previo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Flecha
+  inspection: HasUsage:siguiente
