@@ -4,4 +4,4 @@ Por ejemplo, si le pidiéramos que diera 2 pasos, terminaría dando 1; si le pid
 
 **Importante:** en Gobstones usamos el operador `div` para dividir; por ejemplo _"4 dividido 2"_ se escribe `4 div 2`.
 
-> Escribe el procedimiento `CaminarDesconfiado(pasos)` que simule el caminar de Carlos: debe recibir la cantidad de pasos que debería dar y dar la mitad. Siempre se mueve al `Este`.
+> Define el procedimiento `CaminarDesconfiado(pasos)` que simule el caminar de Carlos: debe recibir la cantidad de pasos que debería dar y dar la mitad. Siempre se mueve al `Este`.
