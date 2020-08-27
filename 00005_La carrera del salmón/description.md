@@ -9,7 +9,7 @@ Para hacer esto, simularemos el movimiento de un salmón: en contra de la corrie
 
 Como la dirección va a ser un parámetro de nuestro procedimiento, necesitamos una forma de decir _"la dirección opuesta a X"_ para poder luego usar esto como argumento de `Mover`. Gobstones nos proporciona un mecanismo para hacer esto: la primitiva `opuesto(dir)`. Dicho simplemente, `opuesto` (¡sí, en minúsculas!) nos dice la dirección contraria a la `dir` que nosotros le demos.
 
-Sabiendo esto, podemos implementar fácilmente el procedimiento que queremos:
+Sabiendo esto, podemos definir fácilmente el procedimiento que queremos:
 
 ```gobstones
 procedure MoverComoSalmon(direccion) {
